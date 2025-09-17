@@ -1,0 +1,597 @@
+Produto,Link,location,day,error
+Placa de Vídeo ASUS TUF Gaming RX 6700 xt,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-asus-tuf-gaming-rx-6700-xt-1411356538,"Belo Horizonte, Conjunto Taquaril","Ontem, 20:52","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(10).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo GeForce RTX 3060TI 8gb Ghost - Iluminação RGB,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-geforce-rtx-3060ti-8gb-ghost-iluminacao-rgb-1411317756,"Belo Horizonte, Vila Paris","Ontem, 18:23","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(14).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo SOYO - Desempenho e Qualidade!,https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/informatica/placas-de-video/placa-de-video-soyo-desempenho-e-qualidade-1411201587,Jacutinga,"Ontem, 14:49","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(21).locator(""div.olx-adcard__mediumbody h3.olx-text.olx-text--body-large.olx-text--block.olx-text--semibold.olx-adcard__price"")
+"
+Placa de Vídeo GT 705,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gt-705-1411182422,"Contagem, Parque Xangri-Lá","Ontem, 13:59","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(23).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo Gigabyte - Perfeita para jogos e edição!,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gigabyte-perfeita-para-jogos-e-edicao-1411180046,"Betim, Jardim das Alterosas 1ª Seção","Ontem, 13:47","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(24).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Gigabyte GeForce GTX 1060 6gb - Windforce OC,https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/informatica/placas-de-video/placa-de-video-gigabyte-geforce-gtx-1060-6gb-windforce-oc-1378482989,Januária,"Ontem, 06:15","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(36).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo ASUS ROG Strix GeForce RTX 3080 OC 10GB,https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/informatica/placas-de-video/placa-de-video-asus-rog-strix-geforce-rtx-3080-oc-10gb-1411019837,"Montes Claros, Jardim Primavera","Ontem, 00:11","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(39).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo GeForce GTX 1050 Ti Gigabyte na caixa,https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/informatica/placas-de-video/placa-de-video-geforce-gtx-1050-ti-gigabyte-na-caixa-1411000015,"Varginha, Parque Boa Vista","9 de jun, 21:46","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(45).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo 51RISC RX 5700XT,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-51risc-rx-5700xt-1410958344,"Belo Horizonte, Caiçaras","9 de jun, 18:50","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(49).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Video Zotac GeForce GTX 1660 Super 6GB Twin Fan 192-bit,https://mg.olx.com.br/regiao-de-divinopolis/informatica/placas-de-video/placa-de-video-zotac-geforce-gtx-1660-super-6gb-twin-fan-192-bit-1410947584,"Itaúna, Morada Nova","9 de jun, 17:53","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(50).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo RX 480 8GB 3 fans,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rx-480-8gb-3-fans-1410703470,"Contagem, Parque Xangri-Lá","8 de jun, 20:06","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(36).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Galax GeForce GTX 1660 ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-galax-geforce-gtx-1660-1401653137,"Sabará, Vila Rica","8 de jun, 19:59","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(37).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo PowerColor Red Devil RX 6700 XT,https://mg.olx.com.br/regiao-de-divinopolis/informatica/placas-de-video/placa-de-video-powercolor-red-devil-rx-6700-xt-1410595924,Bambuí,"8 de jun, 07:53","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(45).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Vendo ou troco placa de Vídeo rx 550 4gb por outra melhor e um volta minha ,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/vendo-ou-troco-placa-de-video-rx-550-4gb-por-outra-melhor-e-um-volta-minha-1410581934,"Barbacena, Centro","8 de jun, 02:29","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(47).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+ Vendo Placa de Vídeo GPU NVIDIA GEFORCE RTX 3060 12GB DDR6 192 BIT,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/vendo-placa-de-video-gpu-nvidia-geforce-rtx-3060-12gb-ddr6-192-bit-1410577120,"Juiz de Fora, São Mateus","8 de jun, 00:21","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(48).locator(""div.olx-adcard__mediumbody h3.olx-text.olx-text--body-large.olx-text--block.olx-text--semibold.olx-adcard__price"")
+"
+Placa de Vídeo EVGA GeForce GTX 780 Ti,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-evga-geforce-gtx-780-ti-1410574901,"Uberlândia, Planalto","7 de jun, 23:27","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(49).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo RX 6700xt,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rx-6700xt-1410453328,Vespasiano,"7 de jun, 10:06","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(9).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo PowerColor Red Dragon RX 580,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-powercolor-red-dragon-rx-580-1410391569,"Belo Horizonte, Independência (Barreiro)","7 de jun, 01:03","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(13).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Video RTX 4060 Infinity 2 Palit NVIDIA GeForce, 8GB, GDDR6 (Novo Lacrado)",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rtx-4060-infinity-2-palit-nvidia-geforce-8gb-gddr6-novo-lacrado-1361142687,"Belo Horizonte, Lourdes","6 de jun, 13:26","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(25).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de video Asrock RX 6600 xt 8gb 90-GA2TZZ-00UANF,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-asrock-rx-6600-xt-8gb-90-ga2tzz-00uanf-1410177822,"Belo Horizonte, Liberdade","6 de jun, 08:54","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(30).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo GTX 1650 D6 Ventus XS OCV3 MSI NVIDIA GeForce, 4GB GDDR6",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gtx-1650-d6-ventus-xs-ocv3-msi-nvidia-geforce-4gb-gddr6-1324995183,"Belo Horizonte, Lourdes","6 de jun, 08:42","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(31).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Quadro DELL Nvidia T1000 4gb Ddr6 128 Bits,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-quadro-dell-nvidia-t1000-4gb-ddr6-128-bits-1374665192,"Belo Horizonte, Califórnia","6 de jun, 07:32","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(32).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Galax GeForce RTX 3070 8GB,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-galax-geforce-rtx-3070-8gb-1410051897,"Belo Horizonte, São Lucas","5 de jun, 19:24","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(39).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Video: ASUS Geforce GTX 1050 Ti 4GB GDDR5, PH-GTX1050TI-4G",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-asus-geforce-gtx-1050-ti-4gb-gddr5-ph-gtx1050ti-4g-1410037480,"Betim, São João","5 de jun, 18:20","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(41).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Gigabyte GeForce GTX 1050 Ti G1 Gaming 4GB,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/placa-de-video-gigabyte-geforce-gtx-1050-ti-g1-gaming-4gb-1409944105,"Juiz de Fora, Vitorino Braga","5 de jun, 13:10","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(46).locator(""div.olx-adcard__mediumbody h3.olx-text.olx-text--body-large.olx-text--block.olx-text--semibold.olx-adcard__price"")
+"
+Placa de Vídeo AFOX GeForce GT 1030 2GB GDDR5 - HDMI / DVI-D - PCI Express,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-afox-geforce-gt-1030-2gb-gddr5-hdmi-dvi-d-pci-express-1398880708,"Belo Horizonte, Concórdia","5 de jun, 11:09","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(47).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de video Soyo Radeon RX 580 8GB, NOVA, Na Caixa**SOMENTE VENDAS",https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-soyo-radeon-rx-580-8gb-nova-na-caixa-somente-vendas-1365173114,"Uberlândia, Alto Umuarama","5 de jun, 10:41","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(49).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo RX 6600 CLD 8G ASRock AMD Radeon, 8 GB, GDDR6, Nova, Na Caixa",https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-rx-6600-cld-8g-asrock-amd-radeon-8-gb-gddr6-nova-na-caixa-1409748059,"Uberlândia, Alto Umuarama","4 de jun, 17:54","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(11).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Zotac GTX 970 4gb,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/placa-de-video-zotac-gtx-970-4gb-1409447624,"Juiz de Fora, Carlos Chagas","3 de jun, 23:26","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(28).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo AMD Radeon RX 6750,https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/informatica/placas-de-video/placa-de-video-amd-radeon-rx-6750-1409440458,Guapé,"3 de jun, 22:58","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(29).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo ASUS  1050ti ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-asus-1050ti-1409282975,"Ribeirão das Neves, Maria Helena (Justinópolis)","3 de jun, 13:54","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(36).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo RX 6600 8gb Gigabyte Eagle,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rx-6600-8gb-gigabyte-eagle-1409211070,"Contagem, Industrial","3 de jun, 09:18","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(45).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo rtx 3050 Asus novo lacrado loja física  COM GARANTIA,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rtx-3050-asus-novo-lacrado-loja-fisica-com-garantia-1334270777,"Belo Horizonte, Lourdes","3 de jun, 08:07","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(47).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo rtx 4060 ventus 2x black novo lacrado loja física ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rtx-4060-ventus-2x-black-novo-lacrado-loja-fisica-1335334802,"Belo Horizonte, Lourdes","3 de jun, 08:06","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(48).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo GeForce Rtx 4080 Super 16 Gb,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-geforce-rtx-4080-super-16-gb-1409127112,"Belo Horizonte, Graça","2 de jun, 21:34","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(3).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Veineda Gaming Series,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-veineda-gaming-series-1409031437,"Uberlândia, Residencial Viviane","2 de jun, 15:27","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(8).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo GTX 550ti ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gtx-550ti-1408842241,"Ibirité, Canoas","1 de jun, 20:47","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(21).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo MSI,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-msi-1408811389,"Belo Horizonte, Lourdes","1 de jun, 17:00","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(27).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo MLSE,https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/informatica/placas-de-video/placa-de-video-mlse-1408708452,Vargem Alegre,"31 de mai, 23:16","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(31).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-1408680920,"Ibirité, Piratininga (Parque Durval de Barros)","31 de mai, 19:22","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(33).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Radeon AMD hd 7450 2gb,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/placa-de-video-radeon-amd-hd-7450-2gb-1408667376,Espera Feliz,"31 de mai, 17:41","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(34).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo rx 580 8gb ,https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/informatica/placas-de-video/placa-de-video-rx-580-8gb-1408663351,Vargem Alegre,"31 de mai, 17:11","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(35).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa De Vídeo Asus Dual AMD Radeon RX 7600 EVO OC Edition, 8GB, GDDR6, Nova, Lacrada",https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-asus-dual-amd-radeon-rx-7600-evo-oc-edition-8gb-gddr6-nova-lacrada-1376562852,"Uberlândia, Alto Umuarama","31 de mai, 06:40","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(43).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa De Vídeo Duex Geforce Gt 610, 1GB Ddr3, 64 Bits, Low Profile, Nova, Lacrada",https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-duex-geforce-gt-610-1gb-ddr3-64-bits-low-profile-nova-lacrada-1373760022,"Uberlândia, Alto Umuarama","31 de mai, 06:40","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(44).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo Gtx 550 ddr5 1giga. ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gtx-550-ddr5-1giga-1397147623,"Belo Horizonte, Santa Amélia","30 de mai, 23:27","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(49).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Radeon R7 360 2GB GDDR5,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-radeon-r7-360-2gb-gddr5-1399472795,"Ribeirão das Neves, Conjunto Nova Pampulha (Justinópolis)","30 de mai, 17:32","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(4).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo 4000 8X,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/placa-de-video-4000-8x-1408263072,Matias Barbosa,"29 de mai, 21:57","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(14).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Gigabyte,https://mg.olx.com.br/regiao-de-divinopolis/informatica/placas-de-video/placa-de-video-gigabyte-1408185713,"Pará de Minas, Centro","29 de mai, 16:09","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(16).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Galax GeForce GTX 1650 EX Plus 4GB,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/placa-de-video-galax-geforce-gtx-1650-ex-plus-4gb-1408174141,"Juiz de Fora, Cidade do Sol","29 de mai, 15:21","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(17).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de video Rx570 ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rx570-1408149360,"Belo Horizonte, Carlos Prates","29 de mai, 13:39","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(19).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Gigabyte GeForce RTX 5070,https://mg.olx.com.br/regiao-de-divinopolis/informatica/placas-de-video/placa-de-video-gigabyte-geforce-rtx-5070-1408137995,"Pará de Minas, Centro","29 de mai, 12:57","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(20).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Gamer - Modelo Específico,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gamer-modelo-especifico-1407939168,"Ibirité, Piratininga (Parque Durval de Barros)","28 de mai, 19:17","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(22).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+PLACA DE VIDEO RTX 3080 10GB,https://mg.olx.com.br/regiao-de-divinopolis/informatica/placas-de-video/placa-de-video-rtx-3080-10gb-1407910363,Formiga,"28 de mai, 17:26","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(28).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de vídeo NVIDIA GeForce GTX 1660 Super OC 6GB GDDR6  Asus Tuf Gaming   Novo, ",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-nvidia-geforce-gtx-1660-super-oc-6gb-gddr6-asus-tuf-gaming-novo-1389591503,"Belo Horizonte, Centro","28 de mai, 08:18","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(35).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo gt730 4gb ram,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-gt730-4gb-ram-1407636910,"Uberlândia, Brasil","27 de mai, 20:01","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(39).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa Vídeo Rtx 2060 Ultra 6gb Triple Fan Rgb Igame Colorful,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-video-rtx-2060-ultra-6gb-triple-fan-rgb-igame-colorful-1397920681,"Uberlândia, Centro","27 de mai, 14:49","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(40).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo ,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/placa-de-video-1407443166,"Juiz de Fora, Granbery","27 de mai, 13:28","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(41).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo XFX GeForce 9 Series,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-xfx-geforce-9-series-1407434347,"Santa Luzia, Nova Esperança (São Benedito)","27 de mai, 12:54","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(42).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Video RTX 3060 MSI Ventus 2X, 12GB GDDR6",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rtx-3060-msi-ventus-2x-12gb-gddr6-1398370847,"Ibirité, Los Angeles","27 de mai, 10:39","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(45).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo AMD RX590 8GB,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-amd-rx590-8gb-1365143156,"Ibirité, Canaã - 1ª Seção","27 de mai, 10:19","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(46).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo NVIDIA GeForce GTX 1660 Super OC 6GB GDDR6   Asus Tuf Gaming  NOVOLACRADO,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-nvidia-geforce-gtx-1660-super-oc-6gb-gddr6-asus-tuf-gaming-novolacrado-1388445153,"Belo Horizonte, Lourdes","27 de mai, 09:24","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(48).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo Galax GeForce RTX 3050 EX V2, 6GB, GDDR6, 96 Bits NOVO LACRADO ",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-galax-geforce-rtx-3050-ex-v2-6gb-gddr6-96-bits-novo-lacrado-1397359718,"Belo Horizonte, Lourdes","27 de mai, 09:14","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(49).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Video RTX 4060 Infinity 2 Palit NVIDIA GeForce, 8GB, GDDR6, DLSS, Ray Tracing, G-",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rtx-4060-infinity-2-palit-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-1368929989,"Belo Horizonte, Lourdes","27 de mai, 09:14","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").first.locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de vídeo NVIDIA GeForce GTX 1660 Super OC 6GB GDDR6   Asus Tuf Gaming   Novo, ",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-nvidia-geforce-gtx-1660-super-oc-6gb-gddr6-asus-tuf-gaming-novo-1388265219,"Belo Horizonte, Centro","27 de mai, 09:11","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(1).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo Galax GeForce RTX 3050 EX V2, 6GB, GDDR6, 96 Bits NOVA LACRADA ",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-galax-geforce-rtx-3050-ex-v2-6gb-gddr6-96-bits-nova-lacrada-1397466760,"Belo Horizonte, Lourdes","27 de mai, 09:06","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(2).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo Nvidia Afox GeForce GT 740 nova na caixa,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-nvidia-afox-geforce-gt-740-nova-na-caixa-1407116923,"Uberlândia, Nossa Senhora Aparecida","26 de mai, 14:27","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(12).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa De Vídeo Duex Geforce GT 610, Nova na caixa",https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-duex-geforce-gt-610-nova-na-caixa-1407114115,"Uberlândia, Nossa Senhora Aparecida","26 de mai, 14:17","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(14).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Zotac GeForce RTX 3070 Twin Edge OC,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-zotac-geforce-rtx-3070-twin-edge-oc-1407080026,"Vespasiano, Nova Pampulha","26 de mai, 12:31","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(18).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+placa de video,https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/informatica/placas-de-video/placa-de-video-1407042012,"Varginha, Vila São Geraldo","26 de mai, 10:17","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(22).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Gigabyte GeForce GTX 960 WindForce 2G,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gigabyte-geforce-gtx-960-windforce-2g-1364318679,Caeté,"26 de mai, 05:36","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(23).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo XFX Radeon HD 6670,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-xfx-radeon-hd-6670-1406931462,"Contagem, Funcionários","25 de mai, 19:48","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(25).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo RX 6900 XT Red Devil ,https://mg.olx.com.br/regiao-de-divinopolis/informatica/placas-de-video/placa-de-video-rx-6900-xt-red-devil-1406844630,"Divinópolis, Catalão","25 de mai, 11:13","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(35).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Veineda Gaming Series,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-veineda-gaming-series-1406831062,"Contagem, Água Branca","25 de mai, 09:53","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(39).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de video GeForce GT730 4GB,https://mg.olx.com.br/regiao-de-divinopolis/informatica/placas-de-video/placa-de-video-geforce-gt730-4gb-1406658031,"Divinópolis, Bela Vista","24 de mai, 11:41","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(43).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa De Vídeo AMD Radeon RX 470 4 GB, GDDR5,  256  bits, Nova, Lacrada",https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-amd-radeon-rx-470-4-gb-gddr5-256-bits-nova-lacrada-1388859257,"Uberlândia, Alto Umuarama","23 de mai, 16:19","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(48).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo NVIDIA GeForce GTX 1660 Super OC 6GB GDDR6 - NOVA LACRADA ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-nvidia-geforce-gtx-1660-super-oc-6gb-gddr6-nova-lacrada-1388542866,"Belo Horizonte, Lourdes","23 de mai, 08:48","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(1).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo ASUS GTX1050,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-asus-gtx1050-1406165544,"Igarapé, Fernão Dias","22 de mai, 18:02","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(6).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Asus GTX 1060 GDDR5 3GB,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-asus-gtx-1060-gddr5-3gb-1370786414,"Ibirité, Los Angeles","22 de mai, 10:30","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(9).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo Palit NVIDIA GeForce RTX 4060 Infinity 2 OC, 8GB, GDDR6, Nova, Lacrada",https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-palit-nvidia-geforce-rtx-4060-infinity-2-oc-8gb-gddr6-nova-lacrada-1371195048,"Uberlândia, Alto Umuarama","22 de mai, 08:06","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(10).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo AMD Radeon RX - PCYes,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-amd-radeon-rx-pcyes-1405635200,"Belo Horizonte, Coração de Jesus","21 de mai, 08:25","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(24).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa De Vídeo Zotac Gtx1650, 4GB, GDDR6 Amp",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-zotac-gtx1650-4gb-gddr6-amp-1297537577,"Belo Horizonte, Centro","20 de mai, 08:09","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(31).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Vendo Placa de Vídeo GTX780,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/vendo-placa-de-video-gtx780-1394202791,"Contagem, Industrial","20 de mai, 01:04","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(32).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Lacrada Nota fiscal RX6600 8GB Challeger ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-lacrada-nota-fiscal-rx6600-8gb-challeger-1405247023,"Sete Lagoas, Centro","19 de mai, 23:42","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(33).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo Rtx 3050 8gb,https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/informatica/placas-de-video/placa-de-video-rtx-3050-8gb-1405176351,"Governador Valadares, São Pedro","19 de mai, 17:22","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(36).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Galax GeForce GTX 1660,https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/informatica/placas-de-video/placa-de-video-galax-geforce-gtx-1660-1404996575,"Montes Claros, Major Prates","19 de mai, 08:36","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(41).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Vendo Placa de Vídeo RX 550 4GB,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/vendo-placa-de-video-rx-550-4gb-1390638397,"Juiz de Fora, Progresso","19 de mai, 08:27","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(42).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Sapphire Radeon RX 550 Pulse 4GB GDDR5,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-sapphire-radeon-rx-550-pulse-4gb-gddr5-1392069996,"Belo Horizonte, Ermelinda","18 de mai, 22:52","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(47).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo Galax GeForce GT 730 4GB DD3 64bits, 73GQS4HX00WG GALAX",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-galax-geforce-gt-730-4gb-dd3-64bits-73gqs4hx00wg-galax-1404724260,"Belo Horizonte, Sagrada Família","17 de mai, 16:46","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(7).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo RTX 4060 VENTUS 2x Black OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracin",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracin-1335384838,"Belo Horizonte, Centro","17 de mai, 09:10","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(12).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Video RTX 4060 Infinity 2 Palit NVIDIA GeForce, 8GB, GDDR6, DLSS",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rtx-4060-infinity-2-palit-nvidia-geforce-8gb-gddr6-dlss-1396073065,"Belo Horizonte, Lourdes","17 de mai, 08:08","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(13).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de video GTS450 Funcionando perfeitamente,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gts450-funcionando-perfeitamente-1395199579,"Ribeirão das Neves, Campos Silveira","16 de mai, 15:18","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(17).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo Galax GeForce RTX 3050 EX V2, 6GB, GDDR6, 96 Bits (NOVO LACRADO)",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-galax-geforce-rtx-3050-ex-v2-6gb-gddr6-96-bits-novo-lacrado-1325126355,"Belo Horizonte, Lourdes","16 de mai, 08:13","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(25).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo GTX 1650 D6 Ventus XS OCV3 MSI NVIDIA GeForce, 4GB GDDR6 - NOVO/LACRADO!",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gtx-1650-d6-ventus-xs-ocv3-msi-nvidia-geforce-4gb-gddr6-novo-lacrado-1368923542,"Belo Horizonte, Lourdes","16 de mai, 07:10","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(26).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo GTX 1660 Asus Phoenix NVIDIA GeForce 6GB, GDDR5 NOVO LACRADO ",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gtx-1660-asus-phoenix-nvidia-geforce-6gb-gddr5-novo-lacrado-1368931134,"Belo Horizonte, Lourdes","16 de mai, 07:07","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(27).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"PLACA DE VIDEO INNO3D GEFORCE RTX 3060 TWIN X2 OC, 12GB, GDDR6 NOVO LACRADO ",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-inno3d-geforce-rtx-3060-twin-x2-oc-12gb-gddr6-novo-lacrado-1368933012,"Belo Horizonte, Lourdes","16 de mai, 07:03","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(28).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Sapphire Radeon RX Nitro Rx 6700xt,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-sapphire-radeon-rx-nitro-rx-6700xt-1404286061,"Vespasiano, Nova Pampulha","16 de mai, 00:52","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(29).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Galax GeForce GTX,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-galax-geforce-gtx-1404152123,"Belo Horizonte, Eymard","15 de mai, 16:38","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(33).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa De Vídeo Galax NVIDIA GeForce RTX 3060 Ti 1-Click OC Plus, 8GB, DDR6X, Nova, Lacrada",https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-de-video-galax-nvidia-geforce-rtx-3060-ti-1-click-oc-plus-8gb-ddr6x-nova-lacrada-1395492814,"Uberlândia, Alto Umuarama","15 de mai, 08:40","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(40).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo Gtx1650 D6 Ventus XS Ocv3 MSi Nvidia GeForce 4GB GDdr6,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-gtx1650-d6-ventus-xs-ocv3-msi-nvidia-geforce-4gb-gddr6-1323822598,"Belo Horizonte, Centro","15 de mai, 08:39","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(41).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Vídeo RTX 4060 Gaming Verto OC Dual Fan PNY NVIDIA GeForce, 08GB GDDR6",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rtx-4060-gaming-verto-oc-dual-fan-pny-nvidia-geforce-08gb-gddr6-1361304623,"Belo Horizonte, Centro","15 de mai, 08:30","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(42).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de vídeo iMac 2011 A1311,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-imac-2011-a1311-1403833435,"Belo Horizonte, Pompéia","14 de mai, 17:01","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(46).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo AMD Radeon RX 550 4GB,https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/informatica/placas-de-video/placa-de-video-amd-radeon-rx-550-4gb-1398659812,Sardoá,"14 de mai, 11:21","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(2).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Winfox GeForce GT730 4gb,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-winfox-geforce-gt730-4gb-1375613983,"Contagem, Sapucaia II","13 de mai, 16:31","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(13).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+"Placa de Video RTX 4060 Infinity 2 Palit NVIDIA GeForce, 8GB, GDDR6, DLSS, Ray Tracing, G-",https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-rtx-4060-infinity-2-palit-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-1340277453,"Belo Horizonte, Centro","13 de mai, 13:19","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(16).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo INNO3D GeForce RTX 3060 Twin X2 (NOVO LACRADO),https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-inno3d-geforce-rtx-3060-twin-x2-novo-lacrado-1340277173,"Belo Horizonte, Centro","13 de mai, 13:14","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(17).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Radeon RX 550 4GB GDDR5,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-radeon-rx-550-4gb-gddr5-1403298089,"Belo Horizonte, São Cristóvão","13 de mai, 13:14","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(18).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+PLACA DE VIDEO,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/placa-de-video-1403005604,"Juiz de Fora, Nova Era","12 de mai, 15:03","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(26).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Galax GeForce GTX 1660 Ti 6GB,https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/informatica/placas-de-video/placa-de-video-galax-geforce-gtx-1660-ti-6gb-1378472222,Pedras de Maria da Cruz,"12 de mai, 10:42","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(34).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo GeForce RTX 3050 6GB ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-de-video-geforce-rtx-3050-6gb-1350030541,"Belo Horizonte, Centro","12 de mai, 09:49","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(36).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa de Vídeo Galax GeForce GT 710 2GB DDR3 64Bits,https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/informatica/placas-de-video/placa-de-video-galax-geforce-gt-710-2gb-ddr3-64bits-1402810324,"Montes Claros, Nova Morada","11 de mai, 21:58","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(42).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa Mãe para Processadores Intel,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/placa-mae-para-processadores-intel-1410670581,"Uberlândia, São José","8 de jun, 15:17","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(48).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Placa eletrônica Máquina de Gelo Everest ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/placa-eletronica-maquina-de-gelo-everest-1364339269,"Belo Horizonte, Colégio Batista","16 de mai, 06:12","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(1).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Título: Placa de Vídeo Revenger GT-705 2GB GDDR3,https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/informatica/placas-de-video/titulo-placa-de-video-revenger-gt-705-2gb-gddr3-1381465146,Bom Repouso,"31 de mai, 16:01","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(6).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+RX 5600xt ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rx-5600xt-1411204423,"Belo Horizonte, Calafate","Ontem, 14:53","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(43).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Vendo Gtx 970 em excelente estado ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/vendo-gtx-970-em-excelente-estado-1411044509,"Contagem, Riacho das Pedras","Ontem, 06:12","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(12).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+GTX 1650,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/gtx-1650-1402312639,"Belo Horizonte, Vila Cloris","9 de jun, 23:52","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(14).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+RTX 3060 12GB OC ,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/rtx-3060-12gb-oc-1411008209,"Uberlândia, Aclimação","9 de jun, 22:25","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(18).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+RTX 3070 ti triple fan ARGB,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rtx-3070-ti-triple-fan-argb-1410958169,"Belo Horizonte, Nossa Senhora da Saúde","9 de jun, 18:50","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(27).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+TROCO RX580 8GB VRAM EM GTX 1060 TI OU GTX 1660 TI SUPER + VALOR EM DINHEIRO,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/troco-rx580-8gb-vram-em-gtx-1060-ti-ou-gtx-1660-ti-super-valor-em-dinheiro-1410936370,Matozinhos,"9 de jun, 16:58","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(38).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+RX 570 8GB,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rx-570-8gb-1307449113,"Belo Horizonte, Santa Amélia","9 de jun, 14:37","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(46).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+RTX 4070 3 fans Com Garantia,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rtx-4070-3-fans-com-garantia-1410829063,"Belo Horizonte, Belvedere","9 de jun, 11:36","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(9).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+RX 570 4 GB Armor ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rx-570-4-gb-armor-1410649470,"Belo Horizonte, Sagrada Família","8 de jun, 13:12","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(25).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Rx550 4gb usada funcionando sem marcas,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/rx550-4gb-usada-funcionando-sem-marcas-1410632708,Pirajuba,"8 de jun, 11:52","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(27).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+GTX 750ti sair hoje ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/gtx-750ti-sair-hoje-1410527559,"Belo Horizonte, União","7 de jun, 16:15","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(36).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+GeForce RTX 3060 12G,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/geforce-rtx-3060-12g-1410516323,"Belo Horizonte, Prado","7 de jun, 15:02","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(38).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+GTX 1650 OC de 4G,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/gtx-1650-oc-de-4g-1410209898,"Belo Horizonte, São Bernardo","6 de jun, 11:22","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").first.locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+GTX 1080 8gb triple fan COM CAIXA E BORRACHAS DE PROTEÇAO,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/gtx-1080-8gb-triple-fan-com-caixa-e-borrachas-de-protecao-1408956311,"Contagem, Amazonas","2 de jun, 11:10","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(45).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+RX 560 2gb,https://mg.olx.com.br/regiao-de-divinopolis/informatica/placas-de-video/rx-560-2gb-1398141067,Arcos,"31 de mai, 20:32","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(3).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+ASICs S19,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/asics-s19-1407820871,"Ubá, Seminário","28 de mai, 12:32","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(23).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Rx 5700 Founders Edition,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rx-5700-founders-edition-1407477452,"Contagem, Novo Eldorado","27 de mai, 15:38","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(32).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+1660 SUPER ASUS,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/1660-super-asus-1406499455,"Belo Horizonte, Jardim América","23 de mai, 18:25","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(1).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+RTX 3080TI _ Rog strix ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rtx-3080ti-rog-strix-1406329321,"Belo Horizonte, Alípio de Melo","23 de mai, 09:54","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(7).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Rx570 4gb power color,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rx570-4gb-power-color-1385520508,"Igarapé, Fernão Dias","22 de mai, 11:07","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(11).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Rx 580 PowerColor 8Gb ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rx-580-powercolor-8gb-1405428292,"Brumadinho, Retiro das Pedras","20 de mai, 15:00","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(16).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Geforce GTX 1660 6GB + Memória ram 8GB Vulcan,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/geforce-gtx-1660-6gb-memoria-ram-8gb-vulcan-1405395655,"Santa Luzia, Frimisa","20 de mai, 12:56","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(18).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+GTX 1050Ti 4gb usado,https://mg.olx.com.br/regiao-de-juiz-de-fora/informatica/placas-de-video/gtx-1050ti-4gb-usado-1405309946,"Juiz de Fora, Santo Antônio","20 de mai, 08:22","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(21).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Gtx 590 oc classifield. Funcionando ok Troco ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/gtx-590-oc-classifield-funcionando-ok-troco-1339896061,"Belo Horizonte, Barroca","18 de mai, 10:38","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(37).locator(""div.olx-adcard__mediumbody h3.olx-text.olx-text--body-large.olx-text--block.olx-text--semibold.olx-adcard__price"")
+"
+GTX 1050 Ti 4GB **NoVa**,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/gtx-1050-ti-4gb-nova-1404621584,"Belo Horizonte, Ernesto do Nascimento(Barreiro)","17 de mai, 09:39","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(45).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+XFX RADEON 6750XT (Melhor que 4060ti) 12GB (pego a sua na troca) (Cartão 12x)(Nota),https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/xfx-radeon-6750xt-melhor-que-4060ti-12gb-pego-a-sua-na-troca-cartao-12x-nota-1395949889,"Belo Horizonte, Jaqueline","17 de mai, 09:27","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(46).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+GTX 1070 EVGA ACX 3.0,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/gtx-1070-evga-acx-3-0-1404152127,"Belo Horizonte, Alto Caiçaras","15 de mai, 16:38","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(2).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+RTX 4060 TI 16 GB Gaming OC Gigabyte,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rtx-4060-ti-16-gb-gaming-oc-gigabyte-1403799827,"Betim, Jardim das Alterosas - 2ª Seção","14 de mai, 15:31","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(6).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+GTX 745 2gb vram,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/gtx-745-2gb-vram-1403383052,"Timóteo, Centro","13 de mai, 16:49","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(11).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Rtx 3080 oc na caixa e nota kabum.,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/rtx-3080-oc-na-caixa-e-nota-kabum-1359058448,"Belo Horizonte, Alto Barroca","13 de mai, 11:54","Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(13).locator(""div.olx-adcard__price-info span.olx-text.olx-text--caption.olx-text--inline.olx-text--bold"")
+"
+Rtx3080 ,https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/informatica/placas-de-video/rtx3080-1411050295,Coronel Murta,"Ontem, 06:57","Locator.get_attribute: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(27).locator(""div.olx-adcard__media picture img"")
+"
+2 6700xt,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/2-6700xt-1410499535,Ibiá,"7 de jun, 13:38","Locator.get_attribute: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(28).locator(""div.olx-adcard__media picture img"")
+"
+Gtx 1080ti,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/gtx-1080ti-1410095134,"Belo Horizonte, Ribeiro de Abreu","5 de jun, 22:28","Locator.get_attribute: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(29).locator(""div.olx-adcard__media picture img"")
+"
+1060 6gb ,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/1060-6gb-1408585322,"Betim, Cruzeiro do Sul","31 de mai, 10:14","Locator.get_attribute: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(30).locator(""div.olx-adcard__media picture img"")
+"
+R9 270 2gb,https://mg.olx.com.br/belo-horizonte-e-regiao/informatica/placas-de-video/r9-270-2gb-1408528135,"Ribeirão das Neves, Fazenda Castro","31 de mai, 00:20","Locator.get_attribute: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(31).locator(""div.olx-adcard__media picture img"")
+"
+Rtx 4060,https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/informatica/placas-de-video/rtx-4060-1405690698,"Uberlândia, Shopping Park","21 de mai, 11:28","Locator.get_attribute: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""section.olx-adcard.olx-adcard__horizontal.undefined"").nth(32).locator(""div.olx-adcard__media picture img"")
+"
